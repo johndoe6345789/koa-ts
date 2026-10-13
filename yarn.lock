@@ -3612,10 +3612,10 @@ koa@^2.8.2:
     type-is "^1.6.16"
     vary "^1.1.2"
 
-koa@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/koa/-/koa-3.2.0.tgz#102568824a6a8faf550ea37ce36afd3bdd4a3a7d"
-  integrity sha512-TrM4/tnNY7uJ1aW55sIIa+dqBvc4V14WRIAlGcWat9wV5pRS9Wr5Zk2ZTjQP1jtfIHDoHiSbPuV08P0fUZo2pg==
+koa@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/koa/-/koa-3.2.1.tgz#c99b0c17469418ad5672d3f5832a5610cd6500e4"
+  integrity sha512-e7IpWJrnanNUroVK2taAgMxoEZvHLXdQiNjeExSu/DEIWm83jaKGBgb7tLmu2rMYpA027qFB3iLR/k3AVpFRnA==
   dependencies:
     accepts "^1.3.8"
     content-disposition "~1.0.1"
@@ -4278,9 +4278,9 @@ prompts@^2.0.1:
     sisteransi "^1.0.4"
 
 proxy-addr@~2.0.7:
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/proxy-addr/-/proxy-addr-2.0.7.tgz#f19fe69ceab311eeb94b42e70e8c2070f9ba1025"
-  integrity sha512-llQsMLSUDUPT44jdrU/O37qlnifitDP+ZwrmmZcoSKyLKvtZxpyV0n2/bD/N4tBAAZ/gJEdZU7KMraoK1+XYAg==
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/proxy-addr/-/proxy-addr-2.0.8.tgz#624e760fd8ab06b1b8320c2f8506d4422cf8e932"
+  integrity sha512-5nnx0yGyVUcY6t9RnWcARWtwT9F1D8O9rt08htPvnd49W1IgZtmLkhu9WfMzQj1cFxjHIO6connUNVW5k7AVyQ==
   dependencies:
     forwarded "0.2.0"
     ipaddr.js "1.9.1"
